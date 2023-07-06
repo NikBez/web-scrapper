@@ -11,7 +11,7 @@ def main(page_count: int, dollars: bool):
     headers = headers.generate()
     result = []
 
-    for page_num in range(1, page_count+1):
+    for page_num in range(1, page_count + 1):
 
         params = {
             'text': 'python',
