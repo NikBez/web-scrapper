@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "web-scrapper"
+version = "0.1.0"
+description = ""
+authors = ["Nik Bezmaternykh <nikitabit@yandex.ru>"]
+readme = "README.md"
+packages = [{include = "web_scrapper"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+beautifulsoup4 = "^4.12.2"
+requests = "^2.31.0"
+fake-headers = "^1.0.2"
+lxml = "^4.9.3"
+environs = "^9.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

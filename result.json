@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Python разработчик",
+    "company": "Corporate Performance Systems",
+    "city": "Москва",
+    "salary": "Не указано",
+    "link_to_vacancy": "https://spb.hh.ru/vacancy/82865351?from=vacancy_search_list&query=python"
+  },
+  {
+    "title": "Senior Python бэкенд разработчик приложений / Backend developer apps",
+    "company": "GOST.Agency",
+    "city": "Москва",
+    "salary": "от 350 000 ₽",
+    "link_to_vacancy": "https://spb.hh.ru/vacancy/82963256?from=vacancy_search_list&query=python"
+  },
+  {
+    "title": "Python разработчик",
+    "company": "idaproject",
+    "city": "Москва, Калужская",
+    "salary": "Не указано",
+    "link_to_vacancy": "https://spb.hh.ru/vacancy/82098823?from=vacancy_search_list&query=python"
+  },
+  {
+    "title": "Программист Python",
+    "company": "ООО АВ Софт",
+    "city": "Москва, Окружная",
+    "salary": "до 300 000 ₽",
+    "link_to_vacancy": "https://spb.hh.ru/vacancy/82163837?from=vacancy_search_list&query=python"
+  },
+  {
+    "title": "Middle Python(django) разработчик",
+    "company": "ООО Xploration Capital",
+    "city": "Москва, Смоленская и еще 1",
+    "salary": "Не указано",
+    "link_to_vacancy": "https://spb.hh.ru/vacancy/82778051?from=vacancy_search_list&query=python"
+  },
+  {
+    "title": "Middle+ Python Developer (backend)",
+    "company": "ООО Агент Умный полис",
+    "city": "Санкт-Петербург, Василеостровская и еще 1",
+    "salary": "250 000 – 300 000 ₽",
+    "link_to_vacancy": "https://spb.hh.ru/vacancy/81587055?from=vacancy_search_list&query=python"
+  }
+]
